@@ -58,7 +58,6 @@ The icing on the cake, however, is after a while I noticed the number of other c
 
 [ *Note: I ran this script on October 1st, data not available past that date* ]
 
-|----|----|
 | Month | Count |
 |----|----|
 |Jan | 7 |
